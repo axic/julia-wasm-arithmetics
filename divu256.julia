@@ -47,33 +47,8 @@ function divu256(dividend:u256, divisor:u256) -> result:u256
   }
 }
 
-function eq_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> result:bool
-{
-  
-}
-
-function lte_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> result:bool
-{
-  
-}
-
-function lt_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> result:bool
-{
-  
-}
-
-function sub_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> r1:u64, r2:u64, r3:u64, r4:u64
-{
-  
-}
-
-function add_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> r1:u64, r2:u64, r3:u64, r4:u64
-{
-  
-}
 
 
-function shiftl_256x4(x1:u64, x2:u64, x3:u64, x4:u64, n:u8) -> r1:u64, r2:u64, r3:u64, r4:u64
-{
 
-}
+
+

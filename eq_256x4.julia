@@ -1,0 +1,4 @@
+function eq_256x4(x1:u64, x2:u64, x3:u64, x4:u64, y1:u64, y2:u64, y3:u64, y4:u64) -> result:bool
+{
+  
+}
